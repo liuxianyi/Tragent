@@ -19,7 +19,7 @@
 # Run
 
 ```
-
+python demo.py
 ```
 
 # 鸣谢
