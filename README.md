@@ -1,12 +1,15 @@
 # Tragent 智能体
 
-[Tragent](https://github.com/liuxianyi/Tragent.git)是基于InternLM的lagent， 在lagent的基础之上添加了Transformers库中相关的开源模型，让大语言模型（如InternLM等）能够处理各类真实场景下的任务，包括自然语言处理任务、计算机视觉、多模态、语音等。
+[Tragent](https://github.com/liuxianyi/Tragent.git)是基于InternLM的lagent， 在lagent2的基础之上添加了Transformers库中相关的开源模型，让大语言模型（如InternLM等）能够处理各类真实场景下的任务，包括自然语言处理任务、计算机视觉、多模态、语音等。
 
 # 进度
 
 # 路线图
 
 - [x]  表格问答插件
+    - []  cli_demo 问答编码问题
+    - []  Gradio ui 界面
+    - []  OpenXlab 部署
 - [ ]  文本生成图像插件
 - [ ]  文本生成视频插件
 
