@@ -14,13 +14,29 @@
 
 ## Conda
 
-[env.yaml](%E9%A1%B9%E7%9B%AE-Tragent%E6%99%BA%E8%83%BD%E4%BD%93%20bb55afa3dffb4cec843f6776341824d1/env.yaml)
+[env.yaml](env.yaml)
 
-# Run
+## Install lagent2
+```shell
+git clone https://github.com/liuxianyi/lagent.git
+cd lagent
+pip install .
+```
 
+# Run on command line
+
+```shell
+cd Tragent
+python cli_demo.py \
+    --path "your internlm2 model weights or model id"
 ```
-python demo.py
+
+# Run on Gradio UI
 ```
+```
+
+# OpenXlab Demo
+
 
 # 鸣谢
 
