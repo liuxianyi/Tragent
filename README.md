@@ -7,9 +7,9 @@
 # 路线图
 
 - [x]  表格问答插件
-    - []  cli_demo 问答编码问题
-    - []  Gradio ui 界面
-    - []  OpenXlab 部署
+    - [ ]  cli_demo 问答编码问题
+    - [ ]  Gradio ui 界面
+    - [ ]  OpenXlab 部署
 - [ ]  文本生成图像插件
 - [ ]  文本生成视频插件
 
